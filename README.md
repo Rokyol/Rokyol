@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Rokyol Roque Olguin
+- 👀 This project was born within the framework of Valquimia's .Net training.
