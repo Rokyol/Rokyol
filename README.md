@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Rokyol Roque Olguin
-- 👀 This project was born within the framework of Valquimia's .Net training.
+- 👀 I´m a Full Stack programmer from Argentina. I am currently studying AI and .NET. I will upload some of my projects here. Thanks for stopping by!
